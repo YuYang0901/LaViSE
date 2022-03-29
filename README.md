@@ -30,6 +30,28 @@ and [here](data/README.md).
 
 - The list of entities used to discover new concepts is provided in `data/entities.txt`.
 
+## Getting started 
+
+### Requirements
+
+Required packages can be found in `requirements.txt`.
+
+### Usage
+
+Train an explainer with
+
+```commandline
+python train_explainer.py
+```
+
+Explain a target filter of any model with
+
+```commandline
+python infer_filter.py
+```
+
+More features will be added soon! 
+
 ## Citation
 ```
 @inproceedings{yang2022explaining,
