@@ -50,7 +50,7 @@ Explain a target filter of any model with
 python infer_filter.py
 ```
 
-More features will be added soon! 
+More features will be added soon! 🍻
 
 ## Citation
 ```
