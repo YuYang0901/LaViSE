@@ -1,6 +1,6 @@
 # LaViSE
 This is the official repository for paper "Explaining Deep Convolutional Neural Networks via Unsupervised 
-Visual-Semantic Filter Attention Projection" to be appeared in CVPR 2022. 
+Visual-Semantic Filter Attention" to be appeared in CVPR 2022. 
 
 Authors: Yu Yang, Seungbae Kim, Jungseock Joo
 
@@ -56,7 +56,7 @@ More features will be added soon! 🍻
 ```
 @inproceedings{yang2022explaining,
     author    = {Yang, Yu and Kim, Seungbae and Joo, Jungseock},
-    title     = {Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention Projection},
+    title     = {Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2022},
 }
